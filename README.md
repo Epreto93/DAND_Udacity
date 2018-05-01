@@ -3,7 +3,7 @@ This repository contains projects I completed for Udacity's Data Analyst Nanodeg
 the May 2018 corhort.
 
 This course focused on analysing data to communicate insights, using python, R, SQL, and Tableau. 
-I worked on python in jupyter notebooks extensively in many of my projects and exercises, using 
+I worked on python in Jupyter Notebook extensively in many of my projects and exercises, using 
 libraries such as pandas, numpy, and matplotlib. I learnt and practiced data wrangling - gathering 
 assessing and cleaning data. This helped me to refine my ability to work with messy, complex datasets 
 and manipulate and prepare data for analysis. Some interesting things I learned during this process 
