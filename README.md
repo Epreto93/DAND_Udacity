@@ -8,7 +8,7 @@ libraries such as pandas, numpy, and matplotlib. I learnt and practiced data wra
 assessing and cleaning data. This helped me to refine my ability to work with messy, complex datasets 
 and manipulate and prepare data for analysis. Some interesting things I learned during this process 
 includes web scraping, API querying, and using regular expressions to extract information from free 
-text into more a more structured pandas dataframe. This course also included a statistics section 
+text into a more structured pandas dataframe. This course also included a statistics section 
 covering, among other things, linear and logistic regression,  and A/B testing.
 I learnt how to develop intuition about datasets via Exploratory Data Analyses, using R studio to
 explore relationships and interactions between variables. Finally, I used Tableau to practice data 
