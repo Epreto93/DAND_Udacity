@@ -1,6 +1,6 @@
 # DAND_Udacity
 This repository contains projects I completed for Udacity's Data Analyst Nanodegree course from 
-the May 2018 corhort
+the May 2018 corhort.
 
 This course focused on analysing data to communicate insights, using python, R, SQL, and Tableau. 
 I worked on python in jupyter notebooks extensively in many of my projects and exercises, using 
