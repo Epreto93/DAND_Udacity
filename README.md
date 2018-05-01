@@ -1,5 +1,6 @@
 # DAND_Udacity
-Projects completed during Udacity's Data Analyst Nanodegree course
+This repository contains projects I completed for Udacity's Data Analyst Nanodegree course from 
+the May 2018 corhort
 
 This course focused on analysing data to communicate insights, using python, R, SQL, and Tableau. 
 I worked on python in jupyter notebooks extensively in many of my projects and exercises, using 
@@ -13,7 +14,28 @@ I learnt how to develop intuition about datasets via Exploratory Data Analyses, 
 explore relationships and interactions between variables. Finally, I used Tableau to practice data 
 story telling with explanatory interactive visualizations.
 
-PROJECT LICENSE
+## Projects
+
+* P0: Explore Weather Trends
+* P1: Explore US Bikeshare Data
+* P2: Investigate a TMDB Movies Dataset
+* P3: Perform A/B test for e-commerce company new webpage
+* P4: Test a Perceptual Phenomenon: The Stroop Effect
+* P5: EDA of a Red Wine Dataset
+* P6: Wrangle WeRateDogs Twitter Data
+* P7: Tableau Data Visualization of Honey Production in the USA
+
+
+## Courses
+
+* Introduction to Python (P1)
+* Introduction to Data Analysis (P2)
+* Practical Statistics (P3)
+* Exploratory Data Analysis (P5)
+* Data Wrangling (P6)
+* Data Story Telling (P7)
+
+## PROJECT LICENSE
 
 These projects were submitted by Elzani Pretorius as part of the Data Analyst
 Nanodegree At Udacity.
