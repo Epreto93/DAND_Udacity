@@ -44,8 +44,8 @@ As part of Udacity Honor code your submissions must be your own work, hence if
 it is not, submitting this project as yours will cause you to break the Udacity
 Honor Code and the suspension of your account.
 
-As the author of these projects, I allow you to check the code as a reference, but if
-you submit it, it's your own responsibility if you get expelled.
+As the author of these projects I allow you to check the code as a reference, but if
+you submit it and this leads to you getting expelled it's your own responsibility.
 
 Copyright (c) 2017 Elzani Pretorius
 
