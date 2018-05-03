@@ -16,24 +16,24 @@ story telling with explanatory interactive visualizations.
 
 ## Projects
 
-* P0: Explore Weather Trends
-* P1: Explore US Bikeshare Data
-* P2: Investigate a TMDB Movies Dataset
-* P3: Perform A/B test for e-commerce company new webpage
-* P4: Test a Perceptual Phenomenon: The Stroop Effect
-* P5: EDA of a Red Wine Dataset
-* P6: Wrangle WeRateDogs Twitter Data
-* P7: Tableau Data Visualization of Honey Production in the USA
+* [P0](https://github.com/Epreto93/DAND_Udacity/blob/master/P0/Data%20Analyses%20-%20project%201.pdf): Explore Weather Trends
+* [P1](https://github.com/Epreto93/DAND_Udacity/blob/master/P1/Bike_Share_Analysis-Project.ipynb): Explore US Bikeshare Data
+* [P2](https://github.com/Epreto93/DAND_Udacity/blob/master/P2/Investigate_a_Dataset%20Project.ipynb): Investigate a TMDB Movies Dataset
+* [P3](https://github.com/Epreto93/DAND_Udacity/blob/master/P3/Analyze_ab_test_results_project.ipynb): Perform A/B test for e-commerce company new webpage
+* [P4](https://github.com/Epreto93/DAND_Udacity/blob/master/P4/Test%20a%20Perceptual%20Phenomenon%20Project.ipynb): Test a Perceptual Phenomenon: The Stroop Effect
+* [P5](https://github.com/Epreto93/DAND_Udacity/blob/master/P5/EDA_of_redwine.Rmd): EDA of a Red Wine Dataset
+* [P6](https://github.com/Epreto93/DAND_Udacity/blob/master/P6/wrangle_act.ipynb): Wrangle WeRateDogs Twitter Data
+* [P7](https://github.com/Epreto93/DAND_Udacity/blob/master/P7/Tableau_project_new.pdf): Tableau Data Visualization of Honey Production in the USA
 
 
 ## Courses
 
-* Introduction to Python (P1)
-* Introduction to Data Analysis (P2)
-* Practical Statistics (P3)
-* Exploratory Data Analysis (P5)
-* Data Wrangling (P6)
-* Data Story Telling (P7)
+* Introduction to Python [P0](https://github.com/Epreto93/DAND_Udacity/blob/master/P0/Data%20Analyses%20-%20project%201.pdf) and [P1](https://github.com/Epreto93/DAND_Udacity/blob/master/P1/Bike_Share_Analysis-Project.ipynb)
+* Introduction to Data Analysis [P2](https://github.com/Epreto93/DAND_Udacity/blob/master/P2/Investigate_a_Dataset%20Project.ipynb)
+* Practical Statistics [P3](https://github.com/Epreto93/DAND_Udacity/blob/master/P3/Analyze_ab_test_results_project.ipynb) and [P4](https://github.com/Epreto93/DAND_Udacity/blob/master/P4/Test%20a%20Perceptual%20Phenomenon%20Project.ipynb) 
+* Exploratory Data Analysis [P5](https://github.com/Epreto93/DAND_Udacity/blob/master/P5/EDA_of_redwine.Rmd)
+* Data Wrangling [P6](https://github.com/Epreto93/DAND_Udacity/blob/master/P6/wrangle_act.ipynb)
+* Data Story Telling [P7](https://github.com/Epreto93/DAND_Udacity/blob/master/P7/Tableau_project_new.pdf)
 
 ## PROJECT LICENSE
 
